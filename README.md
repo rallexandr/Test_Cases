@@ -1,5 +1,4 @@
 # Test_Cases
-Links to the check-lists and test-cases
 
 
 Before submitting a new issue, please check if a similar issue has already been filed.
