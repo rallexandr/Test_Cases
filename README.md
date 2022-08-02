@@ -1,4 +1,4 @@
-# Test_Cases
+# Test-Cases
 
 
 ## Before submitting a new issue, please check if a similar issue has already been filed.
